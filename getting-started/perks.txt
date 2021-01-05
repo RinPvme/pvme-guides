@@ -118,7 +118,6 @@ These are very good perks to aim for, generally accepted as satisfactory startin
 ⬥ <:ancientweapongizmo2:697405383706411018> **Precise 6 Aftershock 1:** 2 <:Ilujankancomp:513190158674427906> 7 <:Armadylcomp:513190158477033474> `(1/1.67 at 137 invention)` <:coins:698816156961603654> $data_pvme:Perks!H18$ (d/a level 9 items), <:coins:698816156961603654> $data_pvme:Perks!H69$ (d/a level 9 refined legs)        
 ⬥ <:ancientweapongizmo2:697405383706411018> **Precise 6 Equilibrium 2:** 1 <:timeworncomps:697405254265864244> 3 <:precisecomp:583434604711510026> 5 <:Armadylcomp:513190158477033474> `(1/47.6 at 137 invention)` <:coins:698816156961603654> $data_pvme:Perks!H22$
 ⬥ <:ancientweapongizmo2:697405383706411018> **Precise 6 Equilibrium 2:** 3 <:historiccomps:697405254676906018> 6 <:precisecomp:583434604711510026> `(1/585 at 137 invention)` <:coins:698816156961603654> $data_pvme:Perks!K22$
-. 
 ⬥ <:ancientweapongizmo2:697405383706411018> **Precise 6 Ruthless 1:** 2 <:timeworncomps:697405254265864244> 7 <:Armadylcomp:513190158477033474> `(1/1.77 at 137 invention)` <:coins:698816156961603654> $data_pvme:Perks!H26$
 ⬥ <:ancientarmourgizmo2:697405383685308547> **Relentless 5 Crackling 4:** 8 <:vintagecomps:697405254098092063> `(1/20.2 at 137 invention)` <:coins:698816156961603654> $data_pvme:Perks!H27$     
 
